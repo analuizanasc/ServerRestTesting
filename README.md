@@ -4,9 +4,6 @@ Repository dedicated to a ServerRest Automated Testing project
 
 <div align="center">
   
-<img src="https://user-images.githubusercontent.com/103069630/173674425-190a120e-a88c-4a10-99c6-a2a5111ad923.png" width="850" height="200">
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
 <img src="https://media.giphy.com/media/JszKEk8vNGtCXehi7w/giphy.gif" >
@@ -18,10 +15,6 @@ Esse Readme é referente ao projeto para aperfeiçoamento de conhecimento em aut
 
 > Status: ✔️ Finalizado
 
-<div align="center">
-<img src="https://media.giphy.com/media/TJmoBmGk4XXkcI6P3t/giphy.gif">
-</div>
-
 ## Pré requisitos:
 
 Para ter acesso aos arquivos deste repositório você precisará:
@@ -31,10 +24,6 @@ Para ter acesso aos arquivos deste repositório você precisará:
 > - [NodeJS](https://nodejs.org/en/download/)
 > - Newman
 > - Navegador Web 
-
-<div align="center">
-<img src="https://media.giphy.com/media/JPxPiV7UrswSE1XyFu/giphy.gif">
-</div>
 
 ## Acesso:
 Há duas formas de acesar o material desse repositório, por meio do download e do clone do github. 
@@ -63,9 +52,6 @@ Há duas formas de acesar o material desse repositório, por meio do download e 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<div align="center">
-<img src="https://media.giphy.com/media/RNcOaHV4dmQAmF2eFA/giphy.gif" >
-</div>
 
 # 📄 `Plano de Testes - ServeRest API`: 
 
@@ -83,10 +69,6 @@ Este é o arquivo do Plano de testes elaborado para a ServeRest API. Um plano de
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<div align="center">
-<img src="https://media.giphy.com/media/Kzh7yOR0FXx9FHBZge/giphy.gif" >
-</div>
-
 # 📄 `Relatório de Testes - ServeRest API`: 
 Este é o arquivo do Relatório de testes da ServeRest API. O relatório sintetiza as informações obtidas durante a fase de testes e as analisa. Neste documento é possível encontrar as seguintes informações:
 
@@ -100,11 +82,6 @@ Este é o arquivo do Relatório de testes da ServeRest API. O relatório sinteti
 - Referência Bibliográfica
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<div align="center">
-<img src="https://media.giphy.com/media/cNZ8QLEgptGGbJ5fqP/giphy.gif" >
-</div>
-
 
 # 📁 Pasta `Testes`:
 Nesta pasta está os arquivos dos testes executados na ferramenta Postman e o dois arquivos do Dashboard do Newman, um com uma iteração e outro com 4 iterações. O Newman é uma ferramenta que permite executar os testes do Postamn por linha de comando e roda sobre o NodeJs. 
@@ -152,10 +129,6 @@ Em seguida, digite:
 
 Após esses passos será criado uma pasta chamada `Newman` no mesmo local que você indicou e dentro dela se encontra o arquivo HTML que você pode abrir no seu navegador web.
 
-<div align="center">
-<img src="https://media.giphy.com/media/h7jMZHYHMdlJGmT0Ty/giphy.gif" >
-</div>
-
 ### 🖊️ Se liga!
 
 Caso queira, você poderá importar os arquivos json para o Postman da seguinte maneira: 
@@ -171,10 +144,4 @@ Para rodar o testes da coleção:
 2️⃣ Clique em `Run`
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<div align="center">
-<img src="https://media.giphy.com/media/h8mB9WD5K406EM1wn2/giphy.gif" >
-</div>
-
-
 
